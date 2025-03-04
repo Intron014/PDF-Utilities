@@ -5,3 +5,7 @@ The Extractor searches rectangles bigger than the coordinates "standw" and "stan
 ## PDF Stitcher
 Ah, the jewel of the crown, this program grabs images in folders from the input folder and... stitches them into usable pdfs! Yeah, long gone are the days of zooming in and out trying to follow the class! Go wild :D
 
+## PDF Utils
+```bash
+pip install pdf2image img2pdf pillow opencv-python numpy
+```
